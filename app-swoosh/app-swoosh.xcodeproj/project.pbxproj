@@ -14,6 +14,7 @@
 		7A3D4625215755420006274B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A3D4623215755420006274B /* LaunchScreen.storyboard */; };
 		7A4047642159ED6E00135FF2 /* LeagueVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A4047632159ED6E00135FF2 /* LeagueVC.swift */; };
 		7A4047662159ED7E00135FF2 /* SkillVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A4047652159ED7E00135FF2 /* SkillVC.swift */; };
+		7A4047682159FF5500135FF2 /* Palyer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A4047672159FF5500135FF2 /* Palyer.swift */; };
 		7A7D160021575DF0005871BC /* BorderButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7D15FF21575DF0005871BC /* BorderButton.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		7A3D4626215755420006274B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7A4047632159ED6E00135FF2 /* LeagueVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueVC.swift; sourceTree = "<group>"; };
 		7A4047652159ED7E00135FF2 /* SkillVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillVC.swift; sourceTree = "<group>"; };
+		7A4047672159FF5500135FF2 /* Palyer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Palyer.swift; sourceTree = "<group>"; };
 		7A7D15FF21575DF0005871BC /* BorderButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -83,6 +85,7 @@
 		7A4047612159EC9A00135FF2 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				7A4047672159FF5500135FF2 /* Palyer.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A4047682159FF5500135FF2 /* Palyer.swift in Sources */,
 				7A3D461D215755410006274B /* WelcomeVC.swift in Sources */,
 				7A4047642159ED6E00135FF2 /* LeagueVC.swift in Sources */,
 				7A3D461B215755410006274B /* AppDelegate.swift in Sources */,
